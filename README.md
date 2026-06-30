@@ -16,3 +16,8 @@ Linux Hardening Audit Tool is a Python-based security auditing tool that helps a
 - Subprocess Module
 
 ## Installation
+
+```bash
+git clone https://github.com/USERNAME/Linux-Hardening-Audit-Tool.git
+cd Linux-Hardening-Audit-Tool
+python3 audit.py
